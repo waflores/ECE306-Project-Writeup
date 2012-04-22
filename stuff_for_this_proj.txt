@@ -1,0 +1,27 @@
+/***** LINE BY LINE REQS *****************/
+
+Line 1: Name of car
+Line 2: tagline- ie. slogan for car
+Line 3: Team Number ie. "Team 12"
+
+Revision Block: can go for mult. pages, and can start on next page
+
+Footer: DO NOT EDIT BY HAND - USE PROPERTIES; Shoot for consistency!
+	Per his talk, you can add logos in whitespace of footer - but
+	it needs to be consistent.
+
+/********** END PAGE 1 *******************/
+
+/******** PAGE 2 *************************/
+Sections 1----3 For Submission
+Recall Section 3 is NOT technical.
+Power System
+LED
+LCD 
+SWITCHES
+MOTORS
+
+*note you need a serial block or a USB Block, include blocks 
+* for testing as well
+
+/****************************************/
